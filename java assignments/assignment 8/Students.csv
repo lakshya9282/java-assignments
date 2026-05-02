@@ -1,0 +1,10 @@
+studentId,name,branch,marks1,marks2,marks3,marks4,marks5,percentage,grade
+1,Pradhuman,AIML,70,75,80,85,90,80.00,A+
+2,Rahul,CSE,60,65,70,75,80,70.00,A
+4,Sneha,EXTC,65,70,75,65,65,68.00,B
+5,Riya,MECH,80,85,90,66,76,79.40,A
+6,Arjun,CIVIL,55,60,65,70,75,65.00,B
+7,Karan,AIML,78,82,85,88,90,84.60,A+
+8,Neha,CSE,67,72,74,74,34,64.20,B
+9,aditi,LLB,76,75,74,23,45,58.60,B
+10,kushwant,CSE,76,77,89,75,74,78.20,NA,A
